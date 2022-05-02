@@ -34,6 +34,7 @@ python search_in_db.py
 ## Скрипт hello_api_TMDB.py
 Скрипт запрашивает у пользователя токен для работы с ресурсом 
 [themoviedb.ru](https://api.themoviedb.org/).
+Если токен верный, то возвращает значение бюджета для фильма под номером 215.
 #### Использование
 ```
 python hello_api_TMDB.py  
